@@ -1,0 +1,7 @@
+[project]
+name = "neuro-search"
+version = "1.0"
+description = "Neuro Search for YT"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []

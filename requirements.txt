@@ -1,0 +1,8 @@
+opencv-python
+transformers
+Pillow
+tqdm
+scikit-learn
+matplotlib
+streamlit
+yt-dlp
